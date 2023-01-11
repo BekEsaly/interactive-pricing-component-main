@@ -239,6 +239,9 @@ input[type='range']::-webkit-slider-thumb{
 #desktop-pricing{
     display: none;
 }
+#mobile-pricing{
+    display: flex;
+}
    #minus{
        display: inline;
    }
