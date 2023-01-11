@@ -72,7 +72,7 @@ const pricing=document.querySelectorAll('.pricing span')
       });     
       
  //pricing
-const checkBtn=document.querySelector('#btn');
+const checkBtn=document.querySelector('#check');
 const cardCheck=document.querySelector('.card--billing-check');
 /*
 cardCheck.addEventListener('click',()=>{
