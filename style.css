@@ -227,7 +227,7 @@ input[type='range']::-webkit-slider-thumb{
         width: 90%;
     }
     .card--preview{
-        flex-direction: column_
+        flex-direction: column;
         gap: 1rem;
 #mobile-pricing{
         display: flex;
