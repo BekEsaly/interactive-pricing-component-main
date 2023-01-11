@@ -162,8 +162,8 @@ input[type='range']::-webkit-slider-thumb{
     white-space: nowrap;
 }
 .card--billing-check{
-    width: 4rem;
-    height:1.7rem;
+    width: 3.7rem;
+    height:1.5rem;
     padding: 0.1rem;
     border-radius: 1rem;
     background-color: var(--Grayish-Blue);
@@ -173,8 +173,8 @@ input[type='range']::-webkit-slider-thumb{
     background-color: var(--Soft-Cyan);
 }
 #check{
-    width: 1.5rem;
-    height: 1.5rem;
+    width: 1.2rem;
+    height: 1.2rem;
     border-radius: 50%;
     border: 2px solid var(--White);
     background-color: var(--White);
