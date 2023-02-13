@@ -153,11 +153,7 @@ input[type='range']::-webkit-slider-thumb{
 #minus{
     display: none;
 }
-.card--billing{
-    display: flex;
-    justify-content: end;
-    align-items: center;
-}
+
 .card--billing label{
     white-space: nowrap;
 }
